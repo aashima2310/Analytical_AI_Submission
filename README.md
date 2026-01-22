@@ -45,5 +45,6 @@ Build a natural language chatbot that answers analytical stock-market questions 
 - HuggingFace Embeddings
 - Chroma Vector DB
 - Pandas / NumPy
+- Others are mentioned in the seperate readme files of both the tasks
 
 ---
